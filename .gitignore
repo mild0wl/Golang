@@ -29,7 +29,7 @@ _testmain.go
 
 # Directory-based project format:
 .vscode
-
+.idea/
 # mac hidden files
 .DS_Store
 
